@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Hubadibubadi!
+42 is my favourite number!
 Use the left arrow to go back!
